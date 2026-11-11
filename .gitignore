@@ -1,0 +1,8 @@
+*.db
+*.db-wal
+*.db-shm
+*.jsonl
+*.jsonl.gz
+__pycache__/
+.DS_Store
+report.html
